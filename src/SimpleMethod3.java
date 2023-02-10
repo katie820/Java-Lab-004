@@ -1,3 +1,12 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Katie Logefil
+ *
+ * @since Version 1.0
+ *
+ */
+
 import java.util.Scanner;
 
 public class SimpleMethod3 {
